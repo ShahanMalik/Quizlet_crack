@@ -3,20 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Extension Installation Instructions</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        ol, ul {
-            margin-left: 20px;
-        }
-    </style>
+    
+ 
 </head>
 <body>
     <h1>How to Install and Use the Extension</h1>
